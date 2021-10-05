@@ -163,7 +163,7 @@ i {
 /* end header */
 /* start landing */
 .landing {
-				background-image: url('/storage/emulated/0/rufaa/all.html/project/img/686998.jpg');
+				background-image: url('../imge/mountain.jpg');
 				background-size: cover;
 				height: calc(100vh - 64px);
 				position: relative;
