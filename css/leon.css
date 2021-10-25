@@ -214,7 +214,7 @@ i {
 .services .container .services-contact {
 				margin-top: 100px;
 				display: grid;
-				grid-template-columns: repeat(auto-fill, minmax(334px, 1fr)) ;
+				grid-template-columns: repeat(auto-fill, minmax(334px, auto)) ;
 				grid-gap: 70px;
 }
 .services .container .services-contact .col {
