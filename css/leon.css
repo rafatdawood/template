@@ -214,12 +214,18 @@ i {
 .services .container .services-contact {
 				margin-top: 100px;
 				display: grid;
-				grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)) ;
+				grid-template-columns: repeat(auto-fill, minmax(334px, 1fr)) ;
 				grid-gap: 70px;
+}
+.services .container .services-contact .col {
+	display: flex;
+	flex-wrap: wrap;
 }
 .services .container .services-contact .col .serv{
 				display: flex;
 				margin-bottom: 50px;
+				margin-left: 50px;
+				widdth: 43%;
 }
 .services .container .services-contact .col .serv i {
 				flex-basis: 60px;
